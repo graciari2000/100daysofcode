@@ -11,3 +11,6 @@ def daily_challenge():
         language_line = random.choice(language_lines)
     
     print(f"Hello Kafui! Today's project is '{project_line.strip()}' in {language_line.strip()}.")
+
+
+daily_challenge()
