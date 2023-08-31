@@ -18,7 +18,7 @@ I'll be updating my progress daily in this README, sharing my thoughts, experien
 
 ### Days 0-10:
 
-- [Day 00: Started the challenge, set up my coding environment and created a daily coding challenge generator](Day00.md)
+- [Day 00: Started the challenge, set up my coding environment and created a daily coding challenge generator](../Day00.md)
 - ...
 
 ### Days 11-20:
