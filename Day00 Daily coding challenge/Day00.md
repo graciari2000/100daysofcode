@@ -1,6 +1,6 @@
 # Day 00: Started the Challenge and Created a Daily Coding Challenge Generator
 
-Welcome to Day 00 of my 100 Days of Code challenge! 🚀
+Welcome to [Day00](https://github.com/graciari2000/100daysofcode/blob/main/Day00%20Daily%20coding%20challenge/coding_challenges.py) of my 100 Days of Code challenge! 🚀
 
 ## Overview
 
