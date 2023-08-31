@@ -18,7 +18,7 @@ I'll be updating my progress daily in this README, sharing my thoughts, experien
 
 ### Days 0-10:
 
-- [Day 00: Started the challenge, set up my coding environment and created a daily coding challenge generator](Day00Dailycodingchallenge/Day00.md)
+- [Day 00: Started the challenge, set up my coding environment and created a daily coding challenge generator](https://github.com/graciari2000/100daysofcode/blob/main/Day00%20Daily%20coding%20challenge/Day00.md)
 - ...
 
 ### Days 11-20:
