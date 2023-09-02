@@ -20,7 +20,6 @@ I'll be updating my progress daily in this README, sharing my thoughts, experien
 
 - [Day 00: Started the challenge, set up my coding environment and created a daily coding challenge generator](https://github.com/graciari2000/100daysofcode/blob/main/Day00%20Daily%20coding%20challenge/Day00.md)
 - [Day 01: Number Guessing Game](https://github.com/graciari2000/100daysofcode/blob/main/Day01%20guessing%20game/Day01.md)
-- [Day 02: basic expense tracker app with categories and visualizations](https://github.com/graciari2000/100daysofcode/blob/main/Day02%20expense%20tracker/Day02.md)
 - ...
 
 ### Days 11-20:
