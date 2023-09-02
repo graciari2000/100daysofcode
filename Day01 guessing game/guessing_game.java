@@ -3,7 +3,7 @@ class Random {
     public static void main(String args[] ) {
 	int min = 10;
 	int max = 100;
-	System.out.println("Random numbers should be in int from " + min + " to " + max + ":");
+	System.out.println("Note: Random numbers should be in int from " + min + " to " + max + ":");
 	int random_number = (int)Math.floor(Math.random() * (max - min  + 1) + min);
 	Scanner myObj = new Scanner(System.in);
 
