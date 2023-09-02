@@ -36,7 +36,7 @@ https://github.com/graciari2000/100daysofcode/blob/main/Day01%20guessing%20game/
 ## Example Gameplay
 
 
-Random numbers should be in int from 10 to 100:
+Note: Random numbers should be in int from 10 to 100
 What number are we thinking of?:
 50
 You are way off! A little backtracking please
