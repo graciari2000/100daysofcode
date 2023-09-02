@@ -25,17 +25,38 @@ I'll be updating my progress daily in this README, sharing my thoughts, experien
 
 ### Days 11-20:
 
-
+- ...
 
 ### Days 21-30:
 
-- 
 - ...
 
+### Days 31-40:
 
-## Projects
+- ...
 
-Here are some of the projects I plan to work on during this challenge:
+### Days 41-50:
+
+- ...
+
+### Days 51-60:
+
+- ...
+
+### Days 61-70:
+
+- ...
+
+### Days 71-80:
+
+- ...
+
+### Days 81-90:
+
+- ...
+
+### Days 91-100:
+
 - ...
 
 ## Follow Along
