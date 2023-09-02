@@ -1,4 +1,3 @@
-markdown
 # Number Guessing Game
 
 This is a simple command-line number guessing game written in Java. The game generates a random number between 10 and 100, and the player's task is to guess the correct number. The game provides feedback based on the player's guesses.
@@ -8,25 +7,23 @@ This is a simple command-line number guessing game written in Java. The game gen
 1. Clone this repository to your local machine:
 
    
-   git clone https://github.com/yourusername/number-guessing-game.git
-   
+   git clone 
+https://github.com/graciari2000/100daysofcode/blob/main/Day01%20guessing%20game/guessing_game.java   
 
 2. Compile the Java program:
 
    
-   javac RandomGame.java
+   javac guessing_game.java
    
 
 3. Run the game:
 
    
-   java RandomGame
+   java Random
    
 
 4. The game will display a message like this:
 
-   
-   Random numbers should be in int from 10 to 100:
    What number are we thinking of?:
    
 
@@ -69,7 +66,7 @@ What number are we thinking of?:
 This one is smaller. Think again
 What number are we thinking of?:
 105
-I do not think that is a number. Try again
+You are way off! A little backtracking please
 What number are we thinking of?:
 90
 This one is smaller. Think again
@@ -91,6 +88,3 @@ Congratulations! You guessed the correct number.
 
 
 Enjoy the game and happy guessing!
-
-
-Feel free to customize the README with additional information or formatting as needed.
