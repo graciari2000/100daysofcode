@@ -1,0 +1,29 @@
+<template>
+<div class='banner'>
+</div>
+<div>
+<h1>Welcome!</h1>
+<button class='get-started'>Get Started</button>
+<h6>Already have an account?</h6><button @click='navigateToLogin' class='login'>Log In</button>
+</div>
+</template>
+
+<script>
+export default {
+  methods: {
+    navigateToLogin() {
+      this.$router.push('./login.vue');
+    }
+}
+}
+</script>
+
+<style scoped>
+.banner {
+  background-color: blue;
+}
+
+* {
+font-family: Helvetica, sans serif;
+}
+</style>
