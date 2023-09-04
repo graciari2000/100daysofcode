@@ -1,0 +1,8 @@
+body {
+    font-family: 'Impact', Haettenschweiler, Arial Narrow Bold, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(40deg, #3498db 0%, #1f6690 100%);
+}
