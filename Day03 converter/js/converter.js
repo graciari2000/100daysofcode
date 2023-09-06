@@ -1,4 +1,3 @@
-
 var select_from = document.getElementById("from");
 var select_to = document.getElementById("to");
 
