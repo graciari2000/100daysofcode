@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Playfair+Display&display=swap');
+
+.start {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+    font-family: 'Mulish', sans-serif;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 300px;
+}
+
+#name {
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #f2f2f2;
+        font-family: 'Playfair Display', serif;
+        padding: 10px 20px;
+        border-color: black;
+        font-size: 16px;
+        cursor: pointer;
+}
