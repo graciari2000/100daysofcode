@@ -1,0 +1,11 @@
+{
+  "name": "mini-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./js/blog.js",
+  "scripts": {
+    "start": "node ./js/blog.js"
+  },
+  "author": "graciari2000",
+  "license": "ISC"
+}
