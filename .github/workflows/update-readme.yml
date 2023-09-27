@@ -3,7 +3,7 @@ name: Update README
 on:
     push:
     branches:
-        - main
+    - main
 
 jobs:
     update-readme:
@@ -11,10 +11,9 @@ jobs:
 
     steps:
         - name: Check out code
-                uses: actions/checkout@v2
-
+        uses: actions/checkout@v2 
         - name: Update README
-                run: /
+        run: /
             import os
             import requests
             from datetime import datetime
@@ -47,22 +46,22 @@ jobs:
     
                 if not day_directory_exists:
                     # Create the Day{current_day} directory
-                    create_day_directory_url = f"https://api.github.com/repos/{github_username}/{repository_name}/contents/Day{current_day}"
-                    create_day_directory_data = {
-                        "message": f"Create Day{current_day} directory",
-                        "content": "",
+                create_day_directory_url = f"https://api.github.com/repos/{github_username}/{repository_name}/contents/Day{current_day}"
+                create_day_directory_data = {
+                    "message": f"Create Day{current_day} directory",
+                    "content": "",
                     }
-                    create_day_directory_response = requests.put(
-                        create_day_directory_url,
-                        headers={"Authorization": f"token {access_token}"},
-                        json=create_day_directory_data,
+                create_day_directory_response = requests.put(
+                create_day_directory_url,
+                headers={"Authorization": f"token {access_token}"},
+                json=create_day_directory_data,
                     )
         
                     # Check if the directory creation was successful
-                    if create_day_directory_response.status_code == 201:
-                        print(f"Created Day{current_day} directory.")
-                    else:
-                        print(f"Failed to create Day{current_day} directory.")
+                if create_day_directory_response.status_code == 201:
+                    print(f"Created Day{current_day} directory.")
+                else:
+                    print(f"Failed to create Day{current_day} directory.")
     
                 # Read the existing README content
                 with open(readme_path, "r") as f:
