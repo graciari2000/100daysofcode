@@ -1,6 +1,7 @@
 import os
 import requests
 from datetime import datetime
+import base64
 
 # Define your GitHub username, repository name, and personal access token
 github_username = "graciari2000"
