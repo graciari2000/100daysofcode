@@ -3,20 +3,20 @@ on: [push]
 branches: 
     - main
 jobs:
-    job-1:
-        checkout:
-        steps:
-            - name: Checkout code 
-            uses: actions/checkout@v2 
+    #job-1:
+    #   checkout:
+    #  steps:
+    #     - name: Checkout code 
+    #    uses: actions/checkout@v2 
                     
     job-2:
-        needs: [job-1]
+        #needs: [job-1]
         name: Update README
         steps:
             run: / python3 update_readme.py
                     
     job-3:
-        needs: [job-1, job-2]
+        #needs: [job-1, job-2]
         name: Commit changes
         steps:
             run: 
