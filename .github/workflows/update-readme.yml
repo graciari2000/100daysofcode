@@ -1,26 +1,27 @@
-name: Update README
-
-on:
-    push:
-    branches:
+name: update
+on: [push]
+branches: 
     - main
-
 jobs:
-    update-readme:
-    runs-on: ubuntu-latest
-
-    steps:
-        - name: Check out code
-        uses: actions/checkout@v4 
-        run: git checkout 
-
-        - name: Update README
-        run: .github\update_readme.py
-
-        - name: Commit changes
-        run: |
-            git config --global user.name "graciari2000"
-            git config --global user.email "youremail@example.com"
-            git add README.md
-            git commit -m "Update README.md"
-            git push
+    job-1:
+        checkout:
+        steps:
+            - name: Checkout code 
+            uses: actions/checkout@v2 
+                    
+    job-2:
+        needs: [job-1]
+        name: Update README
+        steps:
+            run: / python3 update_readme.py
+                    
+    job-3:
+        needs: [job-1, job-2]
+        name: Commit changes
+        steps:
+            run: 
+                git config --global user.name "${{ secrets.GITHUB_USER }}" 
+                git config --global user.email "${{ secrets.GITHUB_EMAIL }}"
+                git add README.md
+                git commit -m "Update README.md"
+                git push
