@@ -16,7 +16,7 @@ jobs:
     name: Update README
     steps:
       - name: Run Python script
-        run: python3 update_readme.py
+        run: python3 .github/update_readme.py
 
   job-3:
     runs-on: ubuntu-latest
