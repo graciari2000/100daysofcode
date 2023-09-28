@@ -5,14 +5,11 @@ from datetime import datetime
 
 # Define your GitHub username, repository name, and personal access token
 github_username = "graciari2000"
-repository_name = "100daysofcode"
+repository_name = "C:/Users/arian/Desktop/Workspace/100daysofcode"
 access_token = "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"  # Replace with your access token
 
 # Define the path to your README.md file
 readme_path = "README.md"
-
-# Change the working directory to your repository directory
-os.chdir("C:/Users/arian/Desktop/Workspace/100daysofcode/")  # Replace with the actual path to your Git repository
 
 # Get the current date and day number (you may need to adjust this depending on your timezone)
 current_date = datetime.now().strftime("%Y-%m-%d")
