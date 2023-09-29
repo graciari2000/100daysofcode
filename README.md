@@ -18,34 +18,34 @@ I'll be updating my progress daily in this README, sharing my thoughts, experien
 
 ### Days 00-10
 
-- [Day 00: Daily coding challenge generator](Day00%20Daily%20coding%20challenge/Day00.md)
-- [Day 01: Number Guessing Game](Day01%20guessing%20game/Day01.md)
-- [Day 02: Basic expense tracker app with categories and visualizations](Day02%20expense%20tracker/Day02.md)
-- [Day 03: Converter](Day03%20converter/Day03.md)
-- [Day 04: Random Joke](Day04%20Random%20Joke/Day04.md)
-- [Day 05: Text Adventure](Day05%20text%20adventure/Day05.md)
-- [Day 06: Event Countdown](Day06%20Event%20Countdown/Day06.md)
-- [Day 07: Weather App](Day07%20Weather%20App/Day07.md)
-- [Day 08: Blog](Day08%20Blog/Day08.md)
-- [Day 09: Social Media Dashboard](Day09%20Social%20Media%20Dashboard/social-media-dashboard/Day09.md)
-- [Day 10: Art Prompt](Day10%20Art%20Prompt/Day10.md)
+- [Day 00: Daily coding challenge generator](https://github.com/graciari2000/100daysofcode/tree/main/Day00%20Daily%20coding%20challenge)
+- [Day 01: Number Guessing Game](https://github.com/graciari2000/100daysofcode/tree/main/Day01%20guessing%20game)
+- [Day 02: Basic expense tracker app with categories and visualizations](https://github.com/graciari2000/100daysofcode/tree/main/Day02%20expense%20tracker)
+- [Day 03: Converter](https://github.com/graciari2000/100daysofcode/tree/main/Day03%20converter)
+- [Day 04: Random Joke](https://github.com/graciari2000/100daysofcode/tree/main/Day04%20Random%20Joke)
+- [Day 05: Text Adventure](https://github.com/graciari2000/100daysofcode/tree/main/Day05%20text%20adventure)
+- [Day 06: Event Countdown](https://github.com/graciari2000/100daysofcode/tree/main/Day06%20Event%20Countdown)
+- [Day 07: Weather App](https://github.com/graciari2000/100daysofcode/tree/main/Day07%20Weather%20App)
+- [Day 08: Blog](https://github.com/graciari2000/100daysofcode/tree/main/Day08%20Blog)
+- [Day 09: Social Media Dashboard](https://github.com/graciari2000/100daysofcode/tree/main/Day09%20Social%20Media%20Dashboard/social-media-dashboard)
+- [Day 10: Art Prompt](https://github.com/graciari2000/100daysofcode/tree/main/Day10%20Art%20prompt)
 
 ### Days 11-20
 
-- [Day 11: Maze Solver](Day11%20Maze%20Solver/Day11.md)
-- [Day 12: Daily Health Tip](Day12%20Daily%20Health%20Tip/Day12.md)
-- [Day 13: BMI Calculator](Day13%20BMI%20Calculator/Day13.md)
-- [Day 14: Text to Binary](Day14%20Text%20to%20Binary/Day14.md)
-- [Day 15: Morse Code](Day15%20Morse%20Code/Day15.md)
-- [Day 16: Mindfulness Tips](Day16%20Mindfulness%20Tips/Day16.md)
-- [Day 17: Tip Calculator](Day17%20Tip%20Calculator/Day17.md)
-- [Day 18: Web Scraping](Day18%20Web%20Scraping/Day18.md)
-- [Day 19: To-Do List](Day19%20To-Do%20List/Day19.md)
-- [Day 20: Image Classification](Day20%20Image%20Classification/Day20.md)
+- [Day 11: Maze Solver](https://github.com/graciari2000/100daysofcode/tree/main/Day11%20Maze%20solver)
+- [Day 12: Daily Health Tip](https://github.com/graciari2000/100daysofcode/tree/main/Day12%20daily%20health%20tip)
+- [Day 13: BMI Calculator](https://github.com/graciari2000/100daysofcode/tree/main/Day13%20bmi%20calculator)
+- [Day 14: Text to Binary](https://github.com/graciari2000/100daysofcode/tree/main/Day14%20text%20to%20binary)
+- [Day 15: Morse Code](https://github.com/graciari2000/100daysofcode/tree/main/Day15%20morse%20code)
+- [Day 16: Mindfulness Tips](https://github.com/graciari2000/100daysofcode/tree/main/Day16%20mindfulness%20tips)
+- [Day 17: Tip Calculator](https://github.com/graciari2000/100daysofcode/tree/main/Day17%20tip%20calculator)
+- [Day 18: Web Scraping](https://github.com/graciari2000/100daysofcode/tree/main/Day18%20web%20scraping)
+- [Day 19: To-Do List](https://github.com/graciari2000/100daysofcode/tree/main/Day19%20todolist)
+- [Day 20: Image Classification](https://github.com/graciari2000/100daysofcode/tree/main/Day20%20Image%20Classification)
 
 ### Days 21-30
 
-- [Day 21: Password Generator](Day21%20Password%20Generator/Day21.md)
+- [Day 21: Password Generator](https://github.com/graciari2000/100daysofcode/tree/main/Day21%20password%20generator)
 - [Day 22: Typing Test](https://github.com/graciari2000/100daysofcode/tree/main/Day22%20Typing%20test)
 
 ### Days 31-40:
@@ -82,6 +82,6 @@ Feel free to follow along with my journey! You can find the daily updates in the
 
 ## Let's Connect
 
-If you're also doing the 100 Days of Code challenge or have any suggestions, feedback, or questions, feel free to reach out to me. You can connect with me on [Twitter](https://twitter.com/graciari2000) or [LinkedIn](https://linkedin.com/in/kafuiakakpo).
+If you're also doing the 100 Days of Code challenge or have any suggestions, feedback, or questions, feel free to reach out to me. You can connect with me on [X](https://twitter.com/graciari2000) or [LinkedIn](https://linkedin.com/in/kafuiakakpo).
 
 Let's embark on this coding journey together! 💻🎉
