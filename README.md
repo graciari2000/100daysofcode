@@ -46,7 +46,7 @@ I'll be updating my progress daily in this README, sharing my thoughts, experien
 ### Days 21-30
 
 - [Day 21: Password Generator](Day21%20Password%20Generator/Day21.md)
-- [Day 22: Typing Test](Day22 Typing test)
+- [Day 22: Typing Test](https://github.com/graciari2000/100daysofcode/tree/main/Day22%20Typing%20test)
 
 ### Days 31-40:
 
